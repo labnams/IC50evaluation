@@ -2,10 +2,10 @@
 An evaluation of drug responsiveness prediction models for cell viability inhibitory concentrations (IC50 values)
 
 # Usage
-### python codes for each scenarios are stored in Model_generation_validation
-### All the dataset of each scenarios could be downloaded from [here (IC50evaluation/Dataset)](https://mega.nz/#F!CeYGDKyS!uqkmWJ4E2XSGJp_C2VO2gg)
-### you should download each dataset and change the path in each code (path for dataset, model_output_folder, result_output_folder, etc)
-### please refer to the annotations in each code
+- python codes for each scenarios are stored in Model_generation_validation
+- All the dataset of each scenarios could be downloaded from [here (IC50evaluation/Dataset)](https://mega.nz/#F!CeYGDKyS!uqkmWJ4E2XSGJp_C2VO2gg)
+- you should download each dataset and change the path in each code (path for dataset, model_output_folder, result_output_folder, etc)
+- please refer to the annotations in each code
 
 
 # Code description
