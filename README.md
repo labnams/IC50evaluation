@@ -1,12 +1,12 @@
-# IC50evaluation
+# IC50 evaluation
 An evaluation of drug responsiveness prediction models for cell viability inhibitory concentrations (IC50 values)
 
 # Usage
 - Jupyter notebook files of python coding for each scenarios are stored in Model_generation_validation
 - All the dataset and pre-defined models of each scenarios could be downloaded from [here (IC50evaluation/Dataset, IC50evaluation/Pre-defined_models)](https://mega.nz/#F!CeYGDKyS!uqkmWJ4E2XSGJp_C2VO2gg)
-- you should download each dataset and change the path in each code (path for dataset, model_output_folder, result_output_folder, etc)
-- please read Code_and_Data_description_IC50evaluation.pdf to understand data repository and code repository.
-- please refer to the annotations in each code
+- You should download each dataset and change the path in each code (path for dataset, model_output_folder, result_output_folder, etc)
+- Please read Code_and_Data_description_IC50evaluation.pdf to understand data repository and code repository.
+- Please refer to the annotations in each code
 
 
 # Code description
@@ -15,7 +15,7 @@ An evaluation of drug responsiveness prediction models for cell viability inhibi
 - *.pkl : these files are constructed model from ML-method (linearSVR, random forest, XGBoost, etc)
 
 # Computer specification
-- all models were constructed under the computer specification below.
+- All models were constructed under the computer specification below.
 - Windows 10
 - Python 3
 - Keras 2.3.0
