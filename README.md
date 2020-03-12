@@ -6,7 +6,7 @@ An evaluation of drug responsiveness prediction models for cell viability inhibi
 - All the dataset and pre-defined models of each scenarios could be downloaded from [here (IC50evaluation/Dataset, IC50evaluation/Pre-defined_models)](https://mega.nz/#F!CeYGDKyS!uqkmWJ4E2XSGJp_C2VO2gg)
 - You should download each dataset and change the path in each code (path for dataset, model_output_folder, result_output_folder, etc)
 - Please read Code_and_Data_description_IC50evaluation.pdf to understand data repository and code repository.
-- Please set the file path where dataset and training-test set split file located in.
+- Please set the file path where dataset and training-test set split file located in and rename dataset file name in each code.
 - Please refer to the annotations in each code.
 
 
