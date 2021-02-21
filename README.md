@@ -1,5 +1,5 @@
-# IC50 evaluation
-An evaluation of drug responsiveness prediction models for cell viability inhibitory concentrations (IC50 values)
+# ResNetIC50
+a ResNet model for drug response prediction, using cell viability inhibitory concentrations (IC50 values)
 
 # Usage
 - Jupyter notebook files of python coding for each scenarios are stored in Model_generation_validation
