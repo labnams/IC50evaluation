@@ -1,6 +1,6 @@
 # ResNetIC50
 - A ResNet model for drug response prediction, using cell viability inhibitory concentrations (IC50 values)
-- ResNetIC50 is the ResNet model constructed from scenario 1 dataset.
+- ResNetIC50 is the ResNet model constructed from scenario 1 dataset (MDG-160K).
 
 # Usage
 - Jupyter notebook files of python coding for each scenarios are stored in Model_generation_validation
